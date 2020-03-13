@@ -1,3 +1,2 @@
 # ELProject
-ELProject JavaEdition333
-forthefirst
+ELProject JavaEdition

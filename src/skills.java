@@ -30,7 +30,6 @@ public class skills {
             }
             public void bossAa() {
                 System.out.println("Boss使用了普通攻击造成了" + bossA + "点伤害.");
-
             }
         }
     }
